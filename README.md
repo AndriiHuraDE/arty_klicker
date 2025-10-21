@@ -1,29 +1,32 @@
 Це клікер для артилеристів у грі Foxhole
 
-У цій (3.0) версії у клікера 3 режими:
+<img width="818" height="1010" alt="image" src="https://github.com/user-attachments/assets/3035aa37-2372-46c2-8b58-a867e2fec975" />
 
-Споттер: Утримання ПКМ
+У цій (4.2) версії у клікера 3 режими для артилерії та 3 для логістики:
+Для артилерії:
 
-Стрілець: ЛКМ + R кожні 100мс
+- Споттер: Утримання ПКМ
+- Стрілець: ЛКМ + R кожні 100мс
+- Заряджаючий: Макрорекордер (записує тільки клавіатуру)
 
-Заряджаючий: Макрорекордер (записує тільки клавіатуру)
+<img width="396" height="190" alt="image" src="https://github.com/user-attachments/assets/9d4981b0-b38a-4b34-a33b-338f106786a6" />
 
-<img width="422" height="363" alt="image" src="https://github.com/user-attachments/assets/6390c2d3-2a1f-49b3-885d-36bf95064023" />
+Для логістики:
 
-Щоб почати користуватися клікером, виберіть режим і натисніть кнопку старт або F6. Зупинка клавішою стоп або теж F6.
+- Утримання S
+- Утримання W
+- Повторення Schift + ЛКМ
 
-<img width="194" height="69" alt="image" src="https://github.com/user-attachments/assets/50d884ed-616b-4351-90f8-1e13af491473" />
+<img width="402" height="189" alt="image" src="https://github.com/user-attachments/assets/4a40543e-46e1-4271-99c8-6756c9d47b5f" />
 
+Щоб почати користуватися клікером, виберіть режим і натисніть кнопку старт або F6. Зупинка клавішою стоп або F6.
 
-Якщо ви вибрали третій режим макрорекордера то перш ніж почати запишіть макрос за допомогою окремої кнопки запис макро. Запис макро починається кнопкою "Запис макро" або F7 на клавіатурі. Зупинка запису лівою кнопкою миші.
+<img width="801" height="170" alt="image" src="https://github.com/user-attachments/assets/5d8d040f-2894-469a-9af8-23851fb8083d" />
 
-<img width="425" height="422" alt="image" src="https://github.com/user-attachments/assets/bdb51fce-ffc6-4041-b0ad-3db662aeed70" />
+Якщо ви вибрали Макрорекордер то перш ніж почати запишіть макрос за допомогою окремої кнопки запис макро. Запис макро починається кнопкою "Запис макро" або F7 на клавіатурі. Зупинка запису лівою кнопкою миші. 
+<img width="796" height="119" alt="image" src="https://github.com/user-attachments/assets/058475b7-cda6-490e-91a2-0ce2b959703c" />
+В панелі статус показано чи записан запис макро та коли він був зроблений.
+<img width="800" height="111" alt="image" src="https://github.com/user-attachments/assets/22b601b2-f15c-4d62-aae5-e2c4589b6f6c" />
 
-Майте на увазі, що клікер починає працювати через секунду після натискання кнопки старт, щоб користувач встиг переключитися на програму.
-Щоб вийти з програми, натисніть кнопку вихід або хрестик у верхньому правому кутку програми.
+<img width="792" height="127" alt="image" src="https://github.com/user-attachments/assets/a421ce7c-d508-4252-8015-be918951f001" />
 
-<img width="186" height="48" alt="image" src="https://github.com/user-attachments/assets/482ceaa5-d2e1-4e01-b580-12dfd75744d8" />
-<img width="49" height="26" alt="image" src="https://github.com/user-attachments/assets/78ce7343-7c74-4cb4-823b-c0a1424d05c7" />
-
-Недоліки:
-після зупинки відтворення макро деякі клавіші можуть залишитися натиснутими тому потрібно їх натиснути, щоб вони віджалися.
